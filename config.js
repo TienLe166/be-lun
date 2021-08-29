@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ thích chọc anh
     Cứ thích làm anh thương bé`,
     btnIntro: 'Rồi sao ???',
-    title: 'Anh sẽ không nói lời thích em đâu: Mà anh sẽ nói là ',
+    title: 'Anh sẽ không nói lời thích em đâu:    Mà anh sẽ nói là ',
     desc: 'Em có thể tiếp tục khóc cùng anh, cười cùng anh, dịu dàng với anh được không ? ',
     btnYes: 'Dạ CHÚ',
     btnNo: 'Mơ đi chú',
