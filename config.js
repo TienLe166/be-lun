@@ -1,11 +1,11 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn đã lạ thường;
-    Mà sao em cứ thích chọc anh
+    introDesc: `Trái đất vốn đã lạ thường - 
+    Mà sao em cứ thích chọc anh - 
     Cứ thích làm anh thương bé`,
     btnIntro: 'Rồi sao ???',
     title: 'Anh sẽ không nói lời thích em đâu ',
-    desc: 'Mà anh sẽ nói là "Em có thể tiếp tục khóc cùng anh, cười cùng anh, dịu dàng với anh được không ?" ',
+    desc: 'Mà anh sẽ nói là: "Em có thể tiếp tục khóc cùng anh, cười cùng anh, dịu dàng với anh được không ?" ',
     btnYes: 'Dạ CHÚ',
     btnNo: 'Mơ đi chú',
     question:'Có hứa thiệt không ?',
