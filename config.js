@@ -6,7 +6,7 @@ const CONFIG = {
     btnIntro: 'Rồi sao ???',
     title: 'Anh sẽ không nói lời thích em đâu: Mà anh sẽ nói là ',
     desc: 'Em có thể tiếp tục khóc cùng anh, cười cùng anh, dịu dàng với anh được không ? ',
-    btnYes: 'Dạ, EM HỨA',
+    btnYes: 'Dạ CHÚ',
     btnNo: 'Mơ đi chú',
     question:'Có hứa thiệt không ?',
     btnReply: 'Gửi cho anh <3',
